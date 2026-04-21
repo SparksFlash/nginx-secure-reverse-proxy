@@ -203,6 +203,8 @@ Terminal output of OpenSSL command
 return 301 https://$host$request_uri;
 ```
 
+![HTTP to HTTPS Redirect](./images/redirect.png)
+
 ### 3. HTTPS Working Page
 
 Browser showing secure site
